@@ -1,1 +1,13 @@
 # Cybersecurity-assignment-2
+# Phishing-ML-Assignment
+Lightweight phishing URL detection using feature selection and ML.
+
+## How to run
+1. Open `notebooks/phishing_detection.ipynb` in Google Colab.
+2. Upload `data/phishing_data.csv`.
+3. Run all cells.
+
+## Files
+- notebooks/phishing_detection.ipynb
+- report/CS_Assignment2_Report.pdf
+- requirements.txt
